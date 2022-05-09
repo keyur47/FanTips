@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "202152729720",
+    "project_id": "fantipslogin",
+    "storage_bucket": "fantipslogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202152729720:android:2816446397a1304c1be18d",
+        "android_client_info": {
+          "package_name": "com.example.fantips"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202152729720-q8lij1tif9e0gdf8fc6i9hskes4t8g6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOCe0tRa7KQ9HMAS7fzgPd24QzUq-UM8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202152729720-q8lij1tif9e0gdf8fc6i9hskes4t8g6p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
